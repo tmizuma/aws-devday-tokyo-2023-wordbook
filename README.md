@@ -11,7 +11,7 @@
 ### サンプル(頻出英単語 Top100)
 
 | No  | 単語              | 意味               | 例文(英)                                                                                                                | 例文(日)                                                                                                      |
-| --- | ----------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------------------- |
+| --- | ----------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | 1   | following         | 次の               | Following the AWS documentation will help you set up your services correctly                                            | 次の AWS ドキュメントに従うことで、サービスを正しく設定できます                                               |
 | 2   | using             | 使用して           | Using AWS services can help you scale your applications easily                                                          | AWS サービスを使用することで、アプリケーションを簡単にスケールできます                                        |
 | 3   | data              | データ             | Data stored in AWS S3 is highly durable and available                                                                   | AWS S3 に格納されたデータは非常に耐久性が高く、利用可能です                                                   |
@@ -109,8 +109,6 @@
 | 95  | option            | オプション         | You can choose different storage options for your S3 bucket depending on your needs.                                    | ニーズに応じて、S3 バケットに異なるストレージオプションを選択できます。                                       |
 | 96  | step              | 手順               | Follow these steps to create a new IAM user in your AWS account.                                                        | AWS アカウントに新しい IAM ユーザーを作成するには、これらの手順に従ってください。                             |
 | 97  | enable            | 有効にする         | Enable AWS CloudTrail to monitor and log API calls made in your account.                                                | アカウントで行われた API 呼び出しを監視およびログに記録するには、AWS CloudTrail を有効にします。              |
-| 98  | example           | 例                 | For example,you can use AWS Lambda to automatically resize images uploaded to S3.                                       |                                                                                                               |     | 例えば、AWS Lambda を使用して、S3 にアップロードされた画像を自動的にリサイズできます。       |
+| 98  | example           | 例                 | For example,you can use AWS Lambda to automatically resize images uploaded to S3.                                       | 例えば、AWS Lambda を使用して、S3 にアップロードされた画像を自動的にリサイズできます。                        |
 | 99  | within            | 以内               | You can set up an alarm in Amazon CloudWatch to notify you if the CPU usage exceeds 80% within a specified time period. | 指定された期間内に CPU 使用率が 80%を超えた場合に通知するアラームを Amazon CloudWatch で設定できます。        |
 | 100 | change            | 変更               | You can change the security group rules to allow or deny specific traffic to your EC2 instances.                        | セキュリティグループのルールを変更して、特定のトラフィックを EC2 インスタンスに許可または拒否できます。       |
-
-|
